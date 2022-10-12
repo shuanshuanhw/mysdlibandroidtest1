@@ -11,8 +11,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/9back" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/chapter01" />
+            <option value="$PROJECT_DIR$/grid" />
+            <option value="$PROJECT_DIR$/inputtext" />
           </set>
         </option>
       </GradleProjectSettings>
